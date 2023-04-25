@@ -1,4 +1,4 @@
-# Author Comments
+# Author Comments 
 
 This project utilizes the limited access Code Interpreter model from OpenAI. The idea is simply this: allow ChatGPT to perform autonomous analysis and research. A small dataset was collected, comprised of Google search trends. 
 
